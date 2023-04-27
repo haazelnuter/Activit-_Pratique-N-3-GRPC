@@ -1,7 +1,7 @@
 # Activit-_Pratique-N-3-GRPC
 #Teste du serveur avec le client GRPC (BloomRPC):
-**************************UNARY_MODE******************************
 #
+**************************UNARY_MODE******************************
 1/Cette premiere video , pour tester le model Unary:
 https://user-images.githubusercontent.com/96618018/234995149-2b356a8f-33a8-44d1-b88b-9e5c753daaa2.mp4
 #
