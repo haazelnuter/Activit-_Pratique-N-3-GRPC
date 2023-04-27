@@ -1,0 +1,12 @@
+syntax = "proto3";
+package jeu;
+service Jeu {
+  rpc Guess(GuessRequest) returns (Response) {}
+}
+message GuessRequest {
+  string player_name = 1;
+  int32 guess = 2;
+}
+message Response {
+  string message = 1;
+}
